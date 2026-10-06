@@ -38,8 +38,6 @@ These captures show inspection states and selected components. They do not provi
 
 ## 04 / Components and underside
 
-![Component selection](media/images/selected-end-components.png)
-![Underside construction](media/images/underside-construction.png)
 ![Construction review](media/gif/construction-review.gif)
 
 The selected end components and underside view reveal geometry hidden in the hero angle. They make the rounded bottom edge and the way the span enters the end block inspectable.
