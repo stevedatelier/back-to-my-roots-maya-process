@@ -48,7 +48,6 @@ The selected end components and underside view reveal geometry hidden in the her
 
 ![Final front timber view](media/images/front-studio-square.webp)
 ![Final three-quarter timber view](media/images/three-quarter-studio-square.webp)
-![Final central seam](media/images/final-center-seam-detail.webp)
 
 The dark, low-sheen timber treatment brings the grain close to the surface while preserving the seam. The rounded lower edge is quieter than in the clay view, but still softens the weight of each end block. The finished views can be read against the earlier front, top and junction captures rather than as isolated beauty shots.
 
