@@ -327,6 +327,16 @@
       "output_bytes": 144663,
       "processing": "128-color palette, 640px looping excerpt of the review MP4",
       "sha256": "d90b381df2f6952fd7a6da8c36d9e1a25f8727f1702aa33948383a49f0a39384"
+    },
+    {
+      "repo": "chair",
+      "name": "cover_page",
+      "kind": "image",
+      "source": "C:\\Users\\StableDiff\\OneDrive\\Pictures\\Screenshots\\back to my roots.png",
+      "output": "media/cover_page.webp",
+      "processing": "Replacement cover supplied by artist; lossless WebP at original dimensions; source unchanged.",
+      "source_bytes": 124745,
+      "output_bytes": 33664
     }
   ]
 }

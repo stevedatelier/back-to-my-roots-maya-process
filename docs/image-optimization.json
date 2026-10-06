@@ -11,9 +11,9 @@
     "repo": "back-to-my-roots-process",
     "old": "media/cover_page.png",
     "new": "media/cover_page.webp",
-    "before": 105151,
-    "after": 25218,
-    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+    "before": 124745,
+    "after": 33664,
+    "processing": "Replacement cover; lossless WebP from supplied screenshot."
   },
   {
     "repo": "back-to-my-roots-process",
