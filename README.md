@@ -1,6 +1,6 @@
 # Back to My Roots
 
-**Maison d’Atelier**
+**Modeling in Maya. Maison d’Atelier.**
 <img src="media/2d-technical.webp" width="100%" alt="Back to My Roots technical study">
 ![Clay blockout](media/images/clay-blockout.webp)
 
