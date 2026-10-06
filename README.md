@@ -1,7 +1,7 @@
 # Back to My Roots
 
 **Maison d’Atelier**
-
+<img src="media/2d-technical.png" width="100%" alt="Back to My Roots technical study">
 ![Clay blockout](media/images/clay-blockout.png)
 
 Two heavy end blocks hold a long recessed seat. A central seam continues through the seat and back, while rounded lower edges soften the mass. The process question is how to keep that construction legible without making the object feel like an assembly of unrelated pieces.
@@ -74,7 +74,7 @@ The dark, low-sheen timber treatment brings the grain close to the surface while
 
 <br>
 
-<img src="media/2d-technical.png" width="100%" alt="Back to My Roots technical study">
+
 
 <br>
 
