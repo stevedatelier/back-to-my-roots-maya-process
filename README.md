@@ -4,11 +4,11 @@
 <img src="media/2d-technical.webp" width="100%" alt="Back to My Roots technical study">
 ![Clay blockout](media/images/clay-blockout.webp)
 
-A furniture study built around proportion, weight and a continuous seam. Modeled in Maya.
+The design rests on proportion and weight. A continuous seam gives the form a clear line to follow. Modeled in Maya.
 
 ## 01 / Blockout
 
-Blockout first. The proportions need to work before materials enter the picture.
+The first decision is how much weight the form should carry. That balance needs to feel right in the blockout.
 
 ![Modeling still comparison](media/gif/modeling-review.gif)
 
@@ -20,7 +20,7 @@ Blockout first. The proportions need to work before materials enter the picture.
 ![Maya wireframe front](media/images/wireframe-front.webp)
 ![Maya wireframe top](media/images/wireframe-top.webp)
 
-Wireframe and orthographic checks in Maya. This is where the edge flow and transitions get a closer look.
+Edge flow matters most at the transitions. The Maya wireframe checks keep those changes in curvature under scrutiny.
 
 ## 03 / Modeling
 
@@ -28,13 +28,13 @@ Wireframe and orthographic checks in Maya. This is where the edge flow and trans
 ![Seat and back junction](media/images/seat-back-junction.webp)
 ![Central seam detail](media/images/central-seam.webp)
 
-Checking the seat-to-back connection and the central seam in shaded mode.
+The seat and back need to feel like one gesture. The seam gives that gesture definition without breaking it apart.
 
 ## 04 / Modeling Details
 
 ![Construction review](media/gif/construction-review.gif)
 
-Component-level modeling checks, including the underside and the rounded edges.
+The edge radius changes how heavy the piece feels. The underside deserves the same care, even when it stays out of the final frame.
 
 <a href="media/video/construction-review.mp4">Construction review — still-image comparison</a>
 
@@ -43,7 +43,7 @@ Component-level modeling checks, including the underside and the rounded edges.
 ![Final front timber view](media/images/front-studio-square.webp)
 ![Final three-quarter timber view](media/images/three-quarter-studio-square.webp)
 
-The low-sheen finish keeps the grain from taking over. The softer edge highlights are what make the final shots feel calm.
+The final shots need very little drama. Soft edge light and a low-sheen finish give the proportions room to speak.
 
 <a href="docs/media-index.md#images">All working and final views</a>
 
