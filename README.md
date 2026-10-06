@@ -1,8 +1,8 @@
 # Back to My Roots
 
 **Maison d’Atelier**
-<img src="media/2d-technical.png" width="100%" alt="Back to My Roots technical study">
-![Clay blockout](media/images/clay-blockout.png)
+<img src="media/2d-technical.webp" width="100%" alt="Back to My Roots technical study">
+![Clay blockout](media/images/clay-blockout.webp)
 
 Two heavy end blocks hold a long recessed seat. A central seam continues through the seat and back, while rounded lower edges soften the mass. The process question is how to keep that construction legible without making the object feel like an assembly of unrelated pieces.
 
@@ -20,7 +20,7 @@ This review film was assembled from selected screenshots, holding each for two s
 
 ## 02 / Wireframe and orthographic checks
 
-![Maya wireframe angle](media/images/wireframe-angle.png)
+![Maya wireframe angle](media/images/wireframe-angle.webp)
 ![Maya wireframe front](media/images/wireframe-front.webp)
 ![Maya wireframe top](media/images/wireframe-top.webp)
 
@@ -28,9 +28,9 @@ The angled view exposes the dense edge structure around the end block and the tr
 
 ## 03 / Shaded form and junctions
 
-![Shaded front](media/images/shaded-front.png)
-![Seat and back junction](media/images/seat-back-junction.png)
-![Central seam detail](media/images/central-seam.png)
+![Shaded front](media/images/shaded-front.webp)
+![Seat and back junction](media/images/seat-back-junction.webp)
+![Central seam detail](media/images/central-seam.webp)
 
 The shaded views remove the wireframe so the shape can be checked on its own. The close-ups focus on two decisions that remain visible in the final object: where the seat meets the raised back, and how the central seam crosses the surface.
 
@@ -63,11 +63,11 @@ The dark, low-sheen timber treatment brings the grain close to the surface while
 
 ---
 
-<img src="media/cover_page.png" width="100%" alt="Back to My Roots cover page">
+<img src="media/cover_page.webp" width="100%" alt="Back to My Roots cover page">
 
 <br>
 
-<img src="media/grid.png" width="100%" alt="Back to My Roots project gallery">
+<img src="media/grid.webp" width="100%" alt="Back to My Roots project gallery">
 
 <br>
 

@@ -7,10 +7,10 @@
       "name": "clay-blockout",
       "kind": "image",
       "source": "C:\\Users\\StableDiff\\OneDrive\\Pictures\\chair\\Screenshot 2026-08-20 175729.png",
-      "output": "media/images/clay-blockout.png",
-      "processing": "copied unchanged",
+      "output": "media/images/clay-blockout.webp",
+      "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved.",
       "source_bytes": 883736,
-      "output_bytes": 883736,
+      "output_bytes": 413724,
       "sha256": "760c8a1ee5be9e46769359c62470ed9294e67c6701eb4850f7bc84c640e198fe"
     },
     {
@@ -18,10 +18,10 @@
       "name": "wireframe-angle",
       "kind": "image",
       "source": "C:\\Users\\StableDiff\\OneDrive\\Pictures\\chair\\Screenshot 2026-08-21 185236.png",
-      "output": "media/images/wireframe-angle.png",
-      "processing": "resized to maximum 2800px, source untouched",
+      "output": "media/images/wireframe-angle.webp",
+      "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved.",
       "source_bytes": 1443055,
-      "output_bytes": 970119,
+      "output_bytes": 614352,
       "sha256": "09283fd612e8619b4e5a278fbcd27c674142fff23f0619c3ee3da9f3ce8d0eb5"
     },
     {
@@ -62,10 +62,10 @@
       "name": "shaded-angle",
       "kind": "image",
       "source": "C:\\Users\\StableDiff\\OneDrive\\Pictures\\chair\\Screenshot 2026-08-21 190002.png",
-      "output": "media/images/shaded-angle.png",
-      "processing": "resized to maximum 2800px, source untouched",
+      "output": "media/images/shaded-angle.webp",
+      "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved.",
       "source_bytes": 210597,
-      "output_bytes": 229955,
+      "output_bytes": 123392,
       "sha256": "9acf64b28c372a1459d9716927820ba6577e54d9e6854e98e2324e5a66dcf4f1"
     },
     {
@@ -73,10 +73,10 @@
       "name": "shaded-front",
       "kind": "image",
       "source": "C:\\Users\\StableDiff\\OneDrive\\Pictures\\chair\\Screenshot 2026-08-21 190031.png",
-      "output": "media/images/shaded-front.png",
-      "processing": "resized to maximum 2800px, source untouched",
+      "output": "media/images/shaded-front.webp",
+      "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved.",
       "source_bytes": 164016,
-      "output_bytes": 195941,
+      "output_bytes": 112424,
       "sha256": "56dda10ca670eaedeb3a748245301d55a7213b86a232c2a47793da62a7aed04c"
     },
     {
@@ -84,10 +84,10 @@
       "name": "shaded-top",
       "kind": "image",
       "source": "C:\\Users\\StableDiff\\OneDrive\\Pictures\\chair\\Screenshot 2026-08-21 190138.png",
-      "output": "media/images/shaded-top.png",
-      "processing": "resized to maximum 2800px, source untouched",
+      "output": "media/images/shaded-top.webp",
+      "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved.",
       "source_bytes": 159341,
-      "output_bytes": 181165,
+      "output_bytes": 114022,
       "sha256": "0a5a0f5b4254c43d7162d47cfb36182ca461fedf4837bfa26bbae71e66dd4bb5"
     },
     {
@@ -95,10 +95,10 @@
       "name": "edge-front",
       "kind": "image",
       "source": "C:\\Users\\StableDiff\\OneDrive\\Pictures\\chair\\Screenshot 2026-08-21 190159.png",
-      "output": "media/images/edge-front.png",
-      "processing": "resized to maximum 2800px, source untouched",
+      "output": "media/images/edge-front.webp",
+      "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved.",
       "source_bytes": 158562,
-      "output_bytes": 192785,
+      "output_bytes": 112090,
       "sha256": "a32e01fd90c7e6a0218c9744a0585e7fbb5198f792c90965dff844bc85fc0d38"
     },
     {
@@ -106,10 +106,10 @@
       "name": "seat-back-junction",
       "kind": "image",
       "source": "C:\\Users\\StableDiff\\OneDrive\\Pictures\\chair\\Screenshot 2026-08-21 190326.png",
-      "output": "media/images/seat-back-junction.png",
-      "processing": "resized to maximum 2800px, source untouched",
+      "output": "media/images/seat-back-junction.webp",
+      "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved.",
       "source_bytes": 221233,
-      "output_bytes": 247354,
+      "output_bytes": 137094,
       "sha256": "25723a03802d6dd775c11c0ae37310616db210ebf0d51b6168850ccb55cd1149"
     },
     {
@@ -117,10 +117,10 @@
       "name": "central-seam",
       "kind": "image",
       "source": "C:\\Users\\StableDiff\\OneDrive\\Pictures\\chair\\Screenshot 2026-08-21 190342.png",
-      "output": "media/images/central-seam.png",
-      "processing": "resized to maximum 2800px, source untouched",
+      "output": "media/images/central-seam.webp",
+      "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved.",
       "source_bytes": 419767,
-      "output_bytes": 385945,
+      "output_bytes": 170404,
       "sha256": "9f0e3c77aa96d3cbb2e5316f3aad767d53732023cad2d882dbb8b17ec7d588ea"
     },
     {
@@ -128,10 +128,10 @@
       "name": "selected-end-components",
       "kind": "image",
       "source": "C:\\Users\\StableDiff\\OneDrive\\Pictures\\chair\\Screenshot 2026-08-21 190406.png",
-      "output": "media/images/selected-end-components.png",
-      "processing": "resized to maximum 2800px, source untouched",
+      "output": "media/images/selected-end-components.webp",
+      "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved.",
       "source_bytes": 662847,
-      "output_bytes": 825414,
+      "output_bytes": 476226,
       "sha256": "64a134c87a55bc51e7dd67fbb72ff6feee1f0207fb96bfba18d3a7a82b15cdc8"
     },
     {
@@ -139,10 +139,10 @@
       "name": "selected-profile",
       "kind": "image",
       "source": "C:\\Users\\StableDiff\\OneDrive\\Pictures\\chair\\Screenshot 2026-08-21 190422.png",
-      "output": "media/images/selected-profile.png",
-      "processing": "resized to maximum 2800px, source untouched",
+      "output": "media/images/selected-profile.webp",
+      "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved.",
       "source_bytes": 414966,
-      "output_bytes": 945133,
+      "output_bytes": 571792,
       "sha256": "124f3fbf7fa8d2b5e7cbc6a77e32ee6c23793d8047bdbeed1a47f79c27a12899"
     },
     {
@@ -150,10 +150,10 @@
       "name": "underside-construction",
       "kind": "image",
       "source": "C:\\Users\\StableDiff\\OneDrive\\Pictures\\chair\\Screenshot 2026-08-21 190434.png",
-      "output": "media/images/underside-construction.png",
-      "processing": "resized to maximum 2800px, source untouched",
+      "output": "media/images/underside-construction.webp",
+      "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved.",
       "source_bytes": 510857,
-      "output_bytes": 678532,
+      "output_bytes": 365580,
       "sha256": "09d116bc7ce831e75dd70376d12f0a242502fe69f6450fe4616e1791b2f83367"
     },
     {
@@ -183,10 +183,10 @@
       "name": "final-front-view",
       "kind": "image",
       "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\back-to-my-roots\\chair\\transparent\\front-view.png",
-      "output": "media/images/final-front-view.png",
-      "processing": "copied unchanged",
+      "output": "media/images/final-front-view.webp",
+      "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved.",
       "source_bytes": 417993,
-      "output_bytes": 417993,
+      "output_bytes": 257986,
       "sha256": "c36b2fe2e069872c501b9662d4c1a960f6f6ad1a43582974e926e90f47a34d63"
     },
     {
@@ -194,10 +194,10 @@
       "name": "final-back-view",
       "kind": "image",
       "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\back-to-my-roots\\chair\\transparent\\back-view.png",
-      "output": "media/images/final-back-view.png",
-      "processing": "copied unchanged",
+      "output": "media/images/final-back-view.webp",
+      "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved.",
       "source_bytes": 662743,
-      "output_bytes": 662743,
+      "output_bytes": 423070,
       "sha256": "1231be5a9fbc48006b7fbd8b8d7bbb2e9db7745fe67c8270ee706504c2c580b1"
     },
     {
@@ -216,10 +216,10 @@
       "name": "final-top-view",
       "kind": "image",
       "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\back-to-my-roots\\chair\\transparent\\top-view.png",
-      "output": "media/images/final-top-view.png",
-      "processing": "copied unchanged",
+      "output": "media/images/final-top-view.webp",
+      "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved.",
       "source_bytes": 557773,
-      "output_bytes": 557773,
+      "output_bytes": 362918,
       "sha256": "0c6dfcdbd89ef55d6dafde69b1fc0fdbc648de7be1e6a3f0b02de6eb837f1637"
     },
     {

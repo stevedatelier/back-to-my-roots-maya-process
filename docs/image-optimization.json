@@ -1,0 +1,202 @@
+[
+  {
+    "repo": "back-to-my-roots-process",
+    "old": "media/2d-technical.png",
+    "new": "media/2d-technical.webp",
+    "before": 2262644,
+    "after": 1259624,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "back-to-my-roots-process",
+    "old": "media/cover_page.png",
+    "new": "media/cover_page.webp",
+    "before": 105151,
+    "after": 25218,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "back-to-my-roots-process",
+    "old": "media/grid.png",
+    "new": "media/grid.webp",
+    "before": 3084000,
+    "after": 1708084,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "back-to-my-roots-process",
+    "old": "media/images/central-seam.png",
+    "new": "media/images/central-seam.webp",
+    "before": 385945,
+    "after": 170404,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "back-to-my-roots-process",
+    "old": "media/images/clay-blockout.png",
+    "new": "media/images/clay-blockout.webp",
+    "before": 883736,
+    "after": 413724,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "back-to-my-roots-process",
+    "old": "media/images/edge-front.png",
+    "new": "media/images/edge-front.webp",
+    "before": 192785,
+    "after": 112090,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "back-to-my-roots-process",
+    "old": "media/images/final-back-view.png",
+    "new": "media/images/final-back-view.webp",
+    "before": 662743,
+    "after": 423070,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "back-to-my-roots-process",
+    "old": "media/images/final-center-seam-detail.webp",
+    "new": "media/images/final-center-seam-detail.webp",
+    "before": 245094,
+    "after": 245094,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "back-to-my-roots-process",
+    "old": "media/images/final-front-view.png",
+    "new": "media/images/final-front-view.webp",
+    "before": 417993,
+    "after": 257986,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "back-to-my-roots-process",
+    "old": "media/images/final-seat-back-joint-detail.webp",
+    "new": "media/images/final-seat-back-joint-detail.webp",
+    "before": 207294,
+    "after": 207294,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "back-to-my-roots-process",
+    "old": "media/images/final-side-profile.webp",
+    "new": "media/images/final-side-profile.webp",
+    "before": 127192,
+    "after": 127192,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "back-to-my-roots-process",
+    "old": "media/images/final-top-view.png",
+    "new": "media/images/final-top-view.webp",
+    "before": 557773,
+    "after": 362918,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "back-to-my-roots-process",
+    "old": "media/images/front-studio-square.webp",
+    "new": "media/images/front-studio-square.webp",
+    "before": 122474,
+    "after": 122474,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "back-to-my-roots-process",
+    "old": "media/images/seat-back-junction.png",
+    "new": "media/images/seat-back-junction.webp",
+    "before": 247354,
+    "after": 137094,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "back-to-my-roots-process",
+    "old": "media/images/selected-end-components.png",
+    "new": "media/images/selected-end-components.webp",
+    "before": 825414,
+    "after": 476226,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "back-to-my-roots-process",
+    "old": "media/images/selected-profile.png",
+    "new": "media/images/selected-profile.webp",
+    "before": 945133,
+    "after": 571792,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "back-to-my-roots-process",
+    "old": "media/images/shaded-angle.png",
+    "new": "media/images/shaded-angle.webp",
+    "before": 229955,
+    "after": 123392,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "back-to-my-roots-process",
+    "old": "media/images/shaded-front.png",
+    "new": "media/images/shaded-front.webp",
+    "before": 195941,
+    "after": 112424,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "back-to-my-roots-process",
+    "old": "media/images/shaded-top.png",
+    "new": "media/images/shaded-top.webp",
+    "before": 181165,
+    "after": 114022,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "back-to-my-roots-process",
+    "old": "media/images/three-quarter-studio-square.webp",
+    "new": "media/images/three-quarter-studio-square.webp",
+    "before": 124080,
+    "after": 124080,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "back-to-my-roots-process",
+    "old": "media/images/underside-construction.png",
+    "new": "media/images/underside-construction.webp",
+    "before": 678532,
+    "after": 365580,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "back-to-my-roots-process",
+    "old": "media/images/wireframe-angle.png",
+    "new": "media/images/wireframe-angle.webp",
+    "before": 970119,
+    "after": 614352,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "back-to-my-roots-process",
+    "old": "media/images/wireframe-end-block.webp",
+    "new": "media/images/wireframe-end-block.webp",
+    "before": 686476,
+    "after": 686476,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "back-to-my-roots-process",
+    "old": "media/images/wireframe-front.webp",
+    "new": "media/images/wireframe-front.webp",
+    "before": 447502,
+    "after": 447502,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "back-to-my-roots-process",
+    "old": "media/images/wireframe-top.webp",
+    "new": "media/images/wireframe-top.webp",
+    "before": 354506,
+    "after": 354506,
+    "processing": "Existing WebP retained without recompression."
+  }
+]
